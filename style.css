@@ -1,0 +1,521 @@
+.navbar {
+  display: flex;
+  margin-top: 30px;
+}
+
+.emoji {
+  color: rgb(236, 192, 69);
+  margin-left: 50px;
+}
+
+@font-face {
+  font-family: "my-font";
+  src: url("./font1/Rubik-VariableFont_wght.ttf");
+}
+
+body {
+  background-color: rgba(32, 33, 49, 0.849);
+  font-family: "my-font";
+}
+
+.ashar {
+  margin-left: 10px;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+.home {
+  margin-left: 100px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.portfolio {
+  margin-left: 30px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.testimonial {
+  margin-left: 30px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.about {
+  margin-left: 30px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.wheel {
+  margin-left: 330px;
+}
+
+.linkedin {
+  margin-left: 10px;
+  color: #fff;
+}
+
+.filter {
+  margin-left: 20px;
+}
+
+.about:hover {
+  font-weight: bold;
+}
+
+.testimonial:hover {
+  font-weight: bold;
+}
+
+.portfolio:hover {
+  font-weight: bold;
+}
+
+.im {
+  font-size: 80px;
+  font-weight: lighter;
+  color: #d3d3d3;
+  margin-left: 90px;
+  margin-top: 100px;
+  font-weight: lighter;
+}
+
+.name {
+  font-size: 68px;
+  color: #fff;
+  margin-left: 90px;
+}
+
+.line {
+  background-color: rgb(236, 192, 69);
+  width: 180px;
+  height: 5px;
+  margin-left: 95px;
+  margin-top: 10px;
+}
+
+.freelancing {
+  color: #d3d3d3;
+  width: 299px;
+  margin-left: 95px;
+  margin-top: 30px;
+  line-height: 25px;
+}
+
+.circle {
+  background-color: rgba(32, 34, 48, 0.849);
+  width: 450px;
+  height: 450px;
+  border-radius: 100%;
+  margin-top: -400px;
+  margin-left: 35%;
+}
+
+.pic {
+  height: 430px;
+  width: 330px;
+  margin-top: -80%;
+  margin-left: 520px;
+}
+
+.service {
+  color: #fff;
+  margin-left: 885px;
+  margin-top: -360px;
+}
+
+.service-1 {
+  color: #d3d3d3;
+  width: 300px;
+  margin-left: 885px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.show1 {
+  color: rgb(236, 192, 69);
+  margin-left: 443px;
+  text-decoration: none;
+  margin-top: 25px;
+}
+
+.arrow {
+  color: rgb(236, 192, 69);
+  margin-left: 980px;
+  margin-top: -18px;
+}
+
+.facebook {
+  margin-left: 890px;
+  margin-top: 25px;
+  width: 25px;
+  height: 25px;
+  background-color: rgba(69, 71, 102, 0.849);
+  border-radius: 100%;
+}
+
+.twitter {
+  width: 25px;
+  height: 25px;
+}
+
+.twitter1 {
+  margin-left: 930px;
+  margin-top: -29px;
+}
+
+.pinterest1 {
+  margin-left: 1010px;
+  margin-top: -23px;
+}
+
+.pinterest {
+  width: 20px;
+  height: 20px;
+}
+
+.instagram1 {
+  margin-left: 970px;
+  margin-top: -28px;
+}
+
+.instagram {
+  width: 20px;
+  height: 20px;
+}
+
+.rectangle {
+  background-color: rgba(80, 84, 107, 0.849);
+  width: 1150px;
+  height: 130px;
+  margin-left: 90px;
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.div1 {
+  background-color: rgba(60, 63, 87, 0.849);
+  width: 200px;
+  height: 70px;
+  margin: 30px;
+}
+
+.div2 {
+  background-color: rgba(60, 63, 87, 0.849);
+  width: 200px;
+  height: 70px;
+  ;
+  margin: 30px;
+}
+
+.div3 {
+  background-color: rgba(60, 63, 87, 0.849);
+  width: 200px;
+  height: 70px;
+  margin: 30px;
+  display: flex;
+}
+
+.div4 {
+  background-color: rgba(60, 63, 87, 0.849);
+  width: 200px;
+  height: 70px;
+  margin: 30px;
+  display: flex;
+}
+
+.end {
+  background-color: rgba(47, 50, 66, 0.849);
+  width: 100%;
+  height: 980px;
+  margin-top: -60px;
+  position: absolute;
+  z-index: -1;
+  margin-left: -10px;
+}
+
+.meta2 {
+  display: flex;
+  margin-left: 40px;
+  margin-top: 10px;
+}
+
+.meta {
+  color: #fff;
+  margin-left: 48px;
+  margin-top: -42px;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.google1 {
+  width: 120px;
+  height: 40px;
+  margin-left: 40px;
+  margin-top: 15px;
+}
+
+.linked1 {
+  width: 80px;
+  height: 30px;
+  margin-left: 45px;
+  margin-top: 18px;
+}
+
+.in1 {
+  width: 50px;
+  height: 50px;
+  margin-top: 8px;
+  margin-left: -10px;
+}
+
+.slack1 {
+  width: 40px;
+  height: 40px;
+  margin-left: 35px;
+  margin-top: 13px;
+}
+
+.slack {
+  width: 80px;
+  height: 30px;
+  margin-top: 10px;
+}
+
+.what {
+  color: #fff;
+  font-size: 40px;
+  width: 400px;
+  margin-top: 200px;
+  margin-left: 105px;
+}
+
+.easier {
+  color: #d3d3d3;
+  width: 310px;
+  margin-left: 105px;
+  margin-top: 30px;
+  line-height: 25px;
+}
+
+.yellow {
+  color: rgb(236, 192, 69);
+  font-size: 30px;
+  margin-left: 105px;
+  margin-top: 50px;
+}
+
+.yellow2 {
+  color: rgb(236, 192, 69);
+  font-size: 30px;
+  margin-left: 300px;
+  margin-top: -65px;
+}
+
+.yellow3 {
+  color: rgb(236, 192, 69);
+  font-size: 30px;
+  margin-left: 105px;
+  margin-top: 50px;
+}
+
+.yellow4 {
+  color: rgb(236, 192, 69);
+  font-size: 30px;
+  margin-left: 300px;
+  margin-top: -65px;
+}
+
+.project {
+  color: #d3d3d3;
+  margin-left: 105px;
+  margin-top: 10px;
+}
+
+.network {
+  color: #d3d3d3;
+  margin-left: 300px;
+  margin-top: 10px;
+}
+
+.year {
+  color: #d3d3d3;
+  margin-left: 300px;
+  margin-top: 10px;
+}
+
+.contract {
+  color: #d3d3d3;
+  margin-left: 105px;
+  margin-top: 10px;
+}
+
+.ui {
+  width: 120px;
+  height: 90px;
+  margin-top: -420px;
+  display: flex;
+}
+
+.front {
+  width: 120px;
+  height: 90px;
+  margin-top: 5px;
+  display: flex;
+}
+
+.mobile {
+  width: 120px;
+  height: 90px;
+  margin-top: 5px;
+  display: flex;
+}
+
+.end1 {
+  width: 40%;
+  margin-left: 700px;
+}
+
+.design {
+  color: #fff;
+}
+
+.design1 {
+  font-size: small;
+  margin-top: 10px;
+  color: #d3d3d3;
+}
+
+.develop {
+  color: #fff;
+}
+
+.develop1 {
+  font-size: small;
+  margin-top: 10px;
+  color: #d3d3d3;
+}
+
+.app {
+  color: #fff;
+}
+
+.app1 {
+  font-size: small;
+  margin-top: 10px;
+  color: #d3d3d3;
+}
+
+.test {
+  margin-left: 140px;
+  margin-top: -70px;
+}
+
+.test2 {
+  margin-left: 140px;
+  margin-top: -70px;
+}
+
+.test3 {
+  margin-left: 140px;
+  margin-top: -70px;
+}
+
+.arrow1 {
+  color: rgb(236, 192, 69);
+  margin-left: 520px;
+  margin-top: -30px;
+}
+
+.box1 {
+  background-color: rgba(80, 84, 107, 0.849);
+  width: 360px;
+  height: 300px;
+  margin-left: 70px;
+}
+
+.box2 {
+  background-color: rgba(80, 84, 107, 0.849);
+  width: 360px;
+  height: 300px;
+  margin-left: 40px;
+}
+
+.box3 {
+  background-color: rgba(80, 84, 107, 0.849);
+  width: 360px;
+  height: 300px;
+  margin-left: 40px;
+}
+
+.boxes {
+  display: flex;
+  margin-top: 650px;
+  margin-left: 20px;
+}
+
+.desktop {
+  border-radius: 100%;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.develop3 {
+  border-radius: 100%;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.pencil {
+  border-radius: 100%;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.ui1 {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.ui2 {
+  color: #d3d3d3;
+  margin-top: 10px;
+  margin-left: 30px;
+  width: 290px;
+}
+
+.web {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.web1 {
+  color: #d3d3d3;
+  margin-top: 10px;
+  margin-left: 30px;
+  width: 290px;
+}
+
+.prof {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.prof1 {
+  color: #d3d3d3;
+  margin-top: 10px;
+  margin-left: 30px;
+  width: 290px;
+}
